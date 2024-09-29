@@ -27,7 +27,7 @@
 
 ## Introduction
 
-Dub.co is the open-source link management infrastructure for modern marketing teams.
+Vys Wallet is the open-source crypto management platform for modern financial enthusiasts.
 
 ## Features
 
